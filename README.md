@@ -17,7 +17,7 @@
 > **Note:** Hosted on Hugging Face Spaces (free tier) — may take 30–60 seconds to wake up on first visit.
 
 **[→ Live REST API](http://54.174.122.16:8001/docs)** — deployed on AWS EC2
-
+**[→ Tableau Dashboards](https://public.tableau.com/app/profile/harshith.nerlikere.ramesh/vizzes)**
 ---
 
 ## 🏆 Results
